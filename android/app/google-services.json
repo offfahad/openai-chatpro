@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44572289304",
+    "project_id": "open-ai-chatgpt",
+    "storage_bucket": "open-ai-chatgpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44572289304:android:0cdcb853606f8e58e3566d",
+        "android_client_info": {
+          "package_name": "com.example.open_ai_chatgpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_GU2aMB9_MIOfgRndBkyhnW9MhtZtM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
